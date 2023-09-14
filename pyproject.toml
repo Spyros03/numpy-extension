@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "numpy_extension"
 version = "0.0.1"
 authors = [
-  { name="Spyridon Nikolaou", email="spyros.nikolaou2003@gmail.com },
+  { name="Spyridon Nikolaou", email="spyros.nikolaou2003@gmail.com" },
 ]
 description = "Extends the fucntionality of numpy."
 readme = "README.md"
